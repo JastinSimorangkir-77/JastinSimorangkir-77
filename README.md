@@ -124,9 +124,6 @@
 
   <br /><br />
 
-  <img src="https://ghchart.rshah.org/38BDF8/JastinSimorangkir-77" alt="Grafik kontribusi GitHub" width="90%" />
-
-  <br /><br />
 
   <!-- Animasi ular: muncul setelah workflow "Generate Snake Animation" dijalankan (tab Actions) -->
   <picture>
