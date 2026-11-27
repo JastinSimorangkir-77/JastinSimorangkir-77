@@ -1,24 +1,22 @@
 <div align="center">
 
-  <!-- Header animasi (file ada di repo: assets/header.svg) -->
+  <!-- Header animasi: file di repo -> assets/header.svg -->
   <img src="./assets/header.svg" alt="Jastin Simorangkir - Junior Web and Mobile Developer" width="100%" />
-
-  <br />
 
   <!-- Teks mengetik -->
   <a href="https://github.com/JastinSimorangkir-77">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=Halo%2C+saya+Jastin+Simorangkir+%F0%9F%91%8B;Web+Developer+%7C+Laravel+%26+PHP;Mobile+Developer+%7C+Flutter+%26+Dart;Merancang+sistem+%E2%86%92+menulis+kode+%E2%86%92+rilis" alt="Typing animation" />
   </a>
 
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=JastinSimorangkir-77&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/JastinSimorangkir-77?label=Followers&style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%2F%20Internship-2ea44f?style=flat-square" alt="Open to Work" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=JastinSimorangkir-77&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/JastinSimorangkir-77?label=Followers&style=flat-square&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work%20%2F%20Internship-2ea44f?style=flat-square" alt="Open to Work" />
+  </p>
 
 </div>
 
-<br />
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 <h2 align="center">👨‍💻 Tentang Saya</h2>
 
@@ -51,11 +49,11 @@
 </table>
 
 <p align="center">
-  <b>Alur kerja saya:</b><br />
+  <b>Alur kerja saya</b><br />
   📝 Analisis &nbsp;→&nbsp; 📐 Flowchart &amp; Use Case &nbsp;→&nbsp; 🗄️ Desain Database &nbsp;→&nbsp; 💻 Coding &nbsp;→&nbsp; 🧪 Testing &nbsp;→&nbsp; 🚀 Deploy
 </p>
 
-<br />
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 <h2 align="center">🛠️ Tech Stack &amp; Tools</h2>
 
@@ -77,6 +75,8 @@
 </div>
 
 <br />
+
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 <h2 align="center">🚀 Proyek Pilihan</h2>
 
@@ -112,12 +112,9 @@
   </tr>
 </table>
 
-<!--
-  CATATAN: samakan nama repo di tautan proyek (Evontra, TugasKu, Sembakoci, HealthCivic)
-  dengan nama repository kamu yang sebenarnya, supaya tautannya tidak 404.
--->
+<!-- CATATAN: samakan nama repo pada tautan proyek dengan nama repository aslimu agar tidak 404. -->
 
-<br />
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 <h2 align="center">📊 Aktivitas GitHub</h2>
 
@@ -129,32 +126,20 @@
 
   <img src="https://ghchart.rshah.org/38BDF8/JastinSimorangkir-77" alt="Grafik kontribusi GitHub" width="90%" />
 
-</div>
+  <br /><br />
 
-<!--
-  OPSIONAL 1: kartu statistik. Layanan ini kadang down/limit, aktifkan hanya jika tampil normal.
-  Hapus tanda komentar (awal dan akhir) untuk mengaktifkan.
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JastinSimorangkir-77&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JastinSimorangkir-77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
--->
-
-<!--
-  OPSIONAL 2: animasi ular. Aktifkan setelah workflow snake.yml berhasil dijalankan
-  (lihat panduan), lalu hapus tanda komentar.
-
-<div align="center">
+  <!-- Animasi ular: muncul setelah workflow "Generate Snake Animation" dijalankan (tab Actions) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JastinSimorangkir-77/JastinSimorangkir-77/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JastinSimorangkir-77/JastinSimorangkir-77/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/JastinSimorangkir-77/JastinSimorangkir-77/output/github-snake.svg" />
+    <img alt="Animasi ular kontribusi GitHub" src="https://raw.githubusercontent.com/JastinSimorangkir-77/JastinSimorangkir-77/output/github-snake.svg" width="100%" />
   </picture>
+
 </div>
--->
 
 <br />
+
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 <h2 align="center">🎯 Target Belajar 2026</h2>
 
@@ -167,7 +152,7 @@
   ⬜ Berkontribusi pada proyek open source
 </p>
 
-<br />
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
 <h2 align="center">📫 Kontak &amp; Kolaborasi</h2>
 
@@ -191,3 +176,6 @@
 <p align="center">
   <i>"Make it work, make it right, make it fast."</i> ✨
 </p>
+
+<!-- Footer animasi: file di repo -> assets/footer.svg -->
+<img src="./assets/footer.svg" alt="Terima kasih sudah berkunjung" width="100%" />
