@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header animasi: file di repo -> assets/header.svg -->
-  <img src="./assets/header.svg" alt="Jastin Simorangkir - Junior Web and Mobile Developer" width="100%" />
+  <img src="./assets/header.svg" alt="Jastin Cornelius Simorangkir - Junior Web and Mobile Developer" width="100%" />
 
   <!-- Teks mengetik -->
   <a href="https://github.com/JastinSimorangkir-77">
@@ -62,12 +62,12 @@
   <b>Bahasa Pemrograman</b><br /><br />
   <img src="https://skillicons.dev/icons?i=php,dart,js,python,html,css" height="48" alt="Bahasa Pemrograman" />
 
-  <br /><br />
+  <br />
 
   <b>Framework &amp; Library</b><br /><br />
   <img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap" height="48" alt="Framework dan Library" />
 
-  <br /><br />
+  <br />
 
   <b>Database &amp; Tools</b><br /><br />
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" height="48" alt="Database dan Tools" />
