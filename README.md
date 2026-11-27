@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header animasi: file di repo -> assets/header.svg -->
-  <img src="./assets/header.svg" alt="Jastin Cornelius Simorangkir - Junior Web and Mobile Developer" width="100%" />
+  <img src="./assets/header.svg" alt="Jastin Simorangkir - Junior Web and Mobile Developer" width="100%" />
 
   <!-- Teks mengetik -->
   <a href="https://github.com/JastinSimorangkir-77">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=5000&pause=1100&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=Halo%2C+saya+Jastin+Simorangkir+%F0%9F%91%8B;Web+Developer+%7C+Laravel+%26+PHP;Mobile+Developer+%7C+Flutter+%26+Dart;Merancang+sistem+%E2%86%92+menulis+kode+%E2%86%92+rilis" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=5000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=Halo%2C+saya+Jastin+Cornelius+Simorangkir+%F0%9F%91%8B;Web+Developer+%7C+Laravel+%26+PHP;Mobile+Developer+%7C+Flutter+%26+Dart;Merancang+sistem+%E2%86%92+menulis+kode+%E2%86%92+rilis" alt="Typing animation" />
   </a>
 
   <p>
